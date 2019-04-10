@@ -30,8 +30,8 @@ that of classical methods.
  
  # Results 
  
- Models    RMSE      Standard Deviation   Mean of Predictions    Mean of residuals
-  LSTM     10.53           14.2652             42.8517                7.5264
-  MLP 1    14.8787         11.5504             45.4631                9.3820
-  MLP 2    14.9684         11.6146             46.3205                9.4452
-  DBN      16.399          7.4902              40.0                   14.5900
+ Models    RMSE      Standard Deviation   Mean of Predictions    Mean of residuals //
+  LSTM     10.53           14.2652             42.8517                7.5264//
+  MLP 1    14.8787         11.5504             45.4631                9.3820//
+  MLP 2    14.9684         11.6146             46.3205                9.4452//
+  DBN      16.399          7.4902              40.0                   14.5900//
