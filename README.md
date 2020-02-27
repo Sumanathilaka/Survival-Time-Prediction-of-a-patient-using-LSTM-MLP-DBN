@@ -1,5 +1,6 @@
 # Publication Details
-Improving the accuracy of prediction of lung cancer patient survival time using LSTM Nueral Networks
+Improving the accuracy of prediction of lung cancer patient survival time using LSTM Neural Networks.
+
 International Conference of Sabaragamuwa University of SriLanka 
 Nov 2019
 
