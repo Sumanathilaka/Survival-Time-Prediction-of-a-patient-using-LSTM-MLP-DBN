@@ -1,3 +1,8 @@
+# Publication Details
+Improving the accuracy of prediction of lung cancer patient survival time using LSTM Nueral Networks
+International Conference of Sabaragamuwa University of SriLanka 
+Nov 2019
+
 # Survival-Time-Prediction-of-a-patient-using-LSTM-MLP-DBN
 This repo is about predicting survival time of a patient using different deep learning techniques.
 Basically many models were developed before in literature .
